@@ -8,6 +8,12 @@ Files Included:
   vgg_model.ipynb: Code for biofilm classification using the VGG model.
   vgg_transfer_learning.ipynb: Code for biofilm classification using Transfer Learning with VGG.
   VGG model.drawio: Image of the VGG model architecture.
+
+
+
+
+
+  
 Additional Resources:
   https://drive.google.com/drive/folders/1zH3oOu_wm8oS56EZjCE9Bvb0py02mqUP?usp=sharing - Access research materials (biofilm images, PowerPoint presentations, notes, and AlexNet implementation).
 How to Use:
